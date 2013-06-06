@@ -103,12 +103,6 @@
                 android:targetClass="org.teameos.settings.device.DeviceSettings" />
     </header>
 
-    <header android:title="@string/header_category_interface" />
-    <header
-        android:id="@+id/launcher_settings"
-        android:title="@string/launcher_settings_title"
-        android:icon="@drawable/ic_settings_launcher" />
-
     <!-- DEVICE -->
     <header android:id="@+id/device_section"
         android:title="@string/header_category_device" />
